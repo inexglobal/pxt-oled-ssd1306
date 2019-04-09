@@ -31,6 +31,7 @@ All text above, and the splash screen must be included in any redistribution
 #include <algorithm>
 
 
+
 // A DigitalOut sub-class that provides a constructed default state
 class DigitalOut2 : public DigitalOut
 {
