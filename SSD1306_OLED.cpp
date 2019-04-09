@@ -5,6 +5,7 @@ using namespace pxt;
 
 namespace OLED {
 	#define SSD1306_ADDRESS 0x3C
+	
 	#undef printf
 
 	// maintain compatibility with pre-unicode versions of microbit
